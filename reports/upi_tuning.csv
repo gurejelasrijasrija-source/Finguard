@@ -1,0 +1,4 @@
+Model,CV PR-AUC (best),test PR-AUC default,test PR-AUC tuned
+Random Forest,0.8754,0.8786,0.8782
+XGBoost,0.8751,0.8759,0.8757
+LightGBM,0.875,0.8768,0.8755

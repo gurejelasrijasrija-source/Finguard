@@ -1,0 +1,3 @@
+,Precision,Recall,F1,PR-AUC,ROC-AUC
+"Rule (>=3 fast forwards, >=80% passed on)",0.9608,0.6364,0.7656,,
+Random Forest on graph features (5-fold CV),0.8837,0.987,0.9325,0.9935,0.9998

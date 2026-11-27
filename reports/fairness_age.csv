@@ -1,0 +1,5 @@
+group,n,actual_default_rate,approval_rate,TPR,FPR,disparate_impact,TPR_gap_vs_ref,FPR_gap_vs_ref,passes_4/5_rule
+30-44,964,0.09,0.874,0.379,0.1,0.97,0.04,0.027,True
+45-59,863,0.101,0.877,0.46,0.085,0.973,0.12,0.012,True
+60+,614,0.098,0.866,0.467,0.097,0.961,0.127,0.024,True
+<30,559,0.095,0.902,0.34,0.073,1.0,0.0,0.0,True
